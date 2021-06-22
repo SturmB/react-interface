@@ -1,6 +1,22 @@
 {
   "name": "react-interface",
   "version": "0.1.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SturmB/react-interface.git"
+  },
+  "keywords": [
+    "react",
+    "interface"
+  ],
+  "author": "Chris McGee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SturmB/react-interface/issues"
+  },
+  "homepage": "https://github.com/SturmB/react-interface#readme",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.1.2",
