@@ -1,6 +1,6 @@
 {
   "name": "react-interface",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Follow-along project created during the \"React.js: Building an Interface\" course on LinkedIn Learning",
   "main": "index.js",
   "repository": {
